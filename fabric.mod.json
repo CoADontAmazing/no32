@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "no32",
+	"version": "v1",
+	"name": "No32",
+	"description": "Disguises a 32-bit OS as a 64-bit one.",
+	"authors": [
+		"CoAmazing"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/no32",
+		"sources": "https://github.com/CoADontAmazing/no32",
+		"issues": "https://github.com/CoADontAmazing/no32/issues"
+	},
+	"license": "ARR",
+	"icon": "assets/no32/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [ "net.coamazing.no32.No32" ]
+	},
+	"mixins": [ "no32.mixins.json" ],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": ">=1.14.4 <1.21.0"
+	}
+}
+
