@@ -6,6 +6,7 @@
 
 **No32 may cause errors or problems**.
 
+Opposite mod [No64](https://modrinth.com/mod/no64)
 
 The mod **works only on the client side**.
 ____
