@@ -13,12 +13,15 @@
 		"issues": "https://github.com/CoADontAmazing/no32/issues"
 	},
 	"license": "ARR",
-	"icon": "assets/no32/icon.png",
+	"icon": "no32-icon.png",
 	"environment": "client",
 	"entrypoints": {
 		"client": [ "net.coamazing.no32.No32" ]
 	},
 	"mixins": [ "no32.mixins.json" ],
+	"breaks": {
+		"no64" : "v1"
+	},
 	"depends": {
 		"fabricloader": ">=0.14.21",
 		"minecraft": ">=1.14.4 <1.21.0"
