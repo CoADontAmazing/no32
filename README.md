@@ -11,10 +11,10 @@
 > [!WARNING]
 > **No32 may cause errors or problems**. 
 
-Opposite mod [No64](https://modrinth.com/mod/no64)
-
 > [!IMPORTANT]
 > The mod **works only on the client side**.
+
+Opposite mod [No64](https://modrinth.com/mod/no64)
 ____
 
 © ARR 2024 CoAmazing
